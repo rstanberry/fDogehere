@@ -1,7 +1,5 @@
 # fDogehere
-fDoge Information
-
-Site fusedoge.com
+fDoge Information - Site fusedoge.com
 
 Chain FUSE
 
